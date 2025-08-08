@@ -8,6 +8,7 @@
 - **Design (`4_counter.v`)**: A 4-bit counter that increments on every rising edge of the clock.
 - **Testbench (`tb_4_counter.v`)**: Generates the clock, applies reset, and records waveform data.
 - **Waveform (`counter.vcd`)**: Generated during simulation, viewable in GTKWave.
+<img width="1910" height="1015" alt="Screenshot 2025-08-07 215017" src="https://github.com/user-attachments/assets/f2a95b50-67cf-49a4-82c8-c2fce15f8167" />
 
 ---
 
@@ -26,6 +27,6 @@ vvp counter.out
 ###To veiw Waveform 
 gtkwave counter.vcd
 ###Output Waveform
-<img width="1910" height="1015" alt="Screenshot 2025-08-07 215017" src="https://github.com/user-attachments/assets/10b55d60-9f9d-423b-ba79-f64cda653574" />
+
 
 
